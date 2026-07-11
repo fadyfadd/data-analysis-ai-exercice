@@ -1,0 +1,26 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Virtual Environments ---
+.venv/
+venv/
+env/
+ENV/
+.env/
+env.bak/
+venv.bak/
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# --- IDE/Editor Configurations ---
+.vscode/
+.idea/
+.DS_Store
+
+# --- Environment Files ---
+.env
+.flaskenv
